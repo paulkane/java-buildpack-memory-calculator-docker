@@ -2,8 +2,8 @@
 
 This is a docker container for the java-buildpack-memory-calculator
 
-https://github.com/cloudfoundry/java-buildpack-memory-calculator
-https://github.com/cloudfoundry/java-buildpack-memory-calculator/blob/master/docs/help.md
+* https://github.com/cloudfoundry/java-buildpack-memory-calculator
+* https://github.com/cloudfoundry/java-buildpack-memory-calculator/blob/master/docs/help.md
 
 
 ## usage
